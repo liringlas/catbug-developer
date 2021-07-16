@@ -1,6 +1,6 @@
 ### Hi there! 🐱🐛
 
-[![Me on LinkedIn:]](https://www.linkedin.com/in/konstantin-ryzhov/)
+[Find me on LinkedIn](https://www.linkedin.com/in/konstantin-ryzhov/)
 
 
 <!--
