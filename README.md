@@ -1,6 +1,6 @@
 ### Hello and welcome! 🐱🐛
 
-- 🔭 I’m currently working on [Prometheus Research, an IQVIA Business](https://www.prometheusresearch.com/)
+- 🔭 I’m currently working in [Prometheus Research, an IQVIA Business](https://www.prometheusresearch.com/)
 - 📫 How to reach me: [Find me on LinkedIn](https://www.linkedin.com/in/konstantin-ryzhov/)
 
 <!--
