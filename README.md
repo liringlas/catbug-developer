@@ -1,6 +1,6 @@
 ### Hi there! 🐱🐛
 
-[![Catbug's GitHub stats](https://github-readme-stats.vercel.app/api?username=catbug-developer)](https://github.com/anuraghazra/github-readme-stats)
+[![Me on LinkedIn:]](https://www.linkedin.com/in/konstantin-ryzhov/)
 
 
 <!--
