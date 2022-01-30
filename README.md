@@ -1,6 +1,7 @@
 ### Hello and welcome! 🐱🐛
 
-- 🔭 I’m currently working for [Prometheus Research, an IQVIA Business](https://www.prometheusresearch.com/)
+- 🔭 I’m a web developer, primarily writing **React.js** on the frontend and **Node.js** and **Python** on the backend
+- 🌱 Currently working as Software Engineer for [Prometheus Research, an IQVIA Business](https://www.prometheusresearch.com/)
 - 📫 How to reach me: [Find me on LinkedIn](https://www.linkedin.com/in/konstantin-ryzhov/)
 
 <!--
